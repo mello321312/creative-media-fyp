@@ -57,7 +57,7 @@ export default function ProjectPage() {
                 </div>
                 
                 <div className="prose prose-lg">
-                  <h3>"Urban Echoes" - Experimental Video</h3>
+                  <h3>&quot;Urban Echoes&quot; - Experimental Video</h3>
                   <p>
                     This 10-minute experimental documentary explores the soundscape and visual connections in the city. Through layered visual narratives and carefully designed sound, the work presents the unique state of isolation yet coexistence of people in urban life.
                   </p>
@@ -95,7 +95,7 @@ export default function ProjectPage() {
                 </div>
                 
                 <div className="prose prose-lg">
-                  <h3>"Connection Maze" - Interactive Installation</h3>
+                  <h3>&quot;Connection Maze&quot; - Interactive Installation</h3>
                   <p>
                     This interactive installation combines projection mapping, motion sensors, and surround sound to create an immersive space that responds to viewer behavior. As audiences move around the installation, the projected content changes dynamically, presenting a visual metaphor for digital connection and interpersonal distance.
                   </p>

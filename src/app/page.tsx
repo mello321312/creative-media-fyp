@@ -25,7 +25,7 @@ export default function Home() {
                   My final year project explores the connections and gaps between people in the digital age. By combining video and interactive installations, I create an immersive experience that allows viewers to reflect on how modern communication technology both connects and separates us.
                 </p>
                 <p>
-                  The work is inspired by the sense of loneliness in urban life, where I've observed people physically close in public spaces yet mentally distant due to digital devices. At the same time, digital tools provide unprecedented connection methods, making long-distance communication possible.
+                  The work is inspired by the sense of loneliness in urban life, where I&apos;ve observed people physically close in public spaces yet mentally distant due to digital devices. At the same time, digital tools provide unprecedented connection methods, making long-distance communication possible.
                 </p>
                 <p>
                   Through this project, I invite viewers to reconsider technology's role in our lives and how to find balance between the digital and physical worlds. This project combines narrative video, interactive design, and spatial installation to provide an experience that engages both mind and body.
