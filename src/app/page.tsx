@@ -28,7 +28,7 @@ export default function Home() {
                   The work is inspired by the sense of loneliness in urban life, where I&apos;ve observed people physically close in public spaces yet mentally distant due to digital devices. At the same time, digital tools provide unprecedented connection methods, making long-distance communication possible.
                 </p>
                 <p>
-                  Through this project, I invite viewers to reconsider technology's role in our lives and how to find balance between the digital and physical worlds. This project combines narrative video, interactive design, and spatial installation to provide an experience that engages both mind and body.
+                  Through this project, I invite viewers to reconsider technology&apos;s role in our lives and how to find balance between the digital and physical worlds. This project combines narrative video, interactive design, and spatial installation to provide an experience that engages both mind and body.
                 </p>
                 <div className="mt-8 text-center">
                   <a 
