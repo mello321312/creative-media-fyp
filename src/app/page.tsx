@@ -4,7 +4,6 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import ProjectShowcase from '@/components/ProjectShowcase';
 import ProcessSection from '@/components/ProcessSection';
-import Footer from '@/components/Footer';
 
 export default function Home() {
   return (
@@ -40,7 +39,6 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <Footer />
     </div>
   );
 }
