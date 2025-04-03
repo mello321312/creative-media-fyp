@@ -22,13 +22,7 @@ export default function Home() {
               <h2 className="text-3xl md:text-4xl font-bold mb-6 gradient-text text-center">Artist Statement</h2>
               <div className="prose prose-lg mx-auto">
                 <p>
-                  My final year project explores the connections and gaps between people in the digital age. By combining video and interactive installations, I create an immersive experience that allows viewers to reflect on how modern communication technology both connects and separates us.
-                </p>
-                <p>
-                  The work is inspired by the sense of loneliness in urban life, where I&apos;ve observed people physically close in public spaces yet mentally distant due to digital devices. At the same time, digital tools provide unprecedented connection methods, making long-distance communication possible.
-                </p>
-                <p>
-                  Through this project, I invite viewers to reconsider technology&apos;s role in our lives and how to find balance between the digital and physical worlds. This project combines narrative video, interactive design, and spatial installation to provide an experience that engages both mind and body.
+                  In the tender embrace of darkness, silence becomes the language and shadows that breathe the truths. Honors the darkness…it&apos;s a sanctuary of hidden clarity, quiet vulnerability, and unspoken strength. Within obscurity lies intimacy, the soft murmurs of inner worlds emerging gently, illuminated only by the faintest glow of self-awareness.
                 </p>
                 <div className="mt-8 text-center">
                   <a 
