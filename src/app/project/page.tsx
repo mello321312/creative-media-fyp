@@ -149,6 +149,34 @@ export default function ProjectPage() {
                   </div>
                 </div>
               </motion.div>
+              
+              <motion.div 
+                className="mb-16"
+                initial={{ opacity: 0, y: 50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.8 }}
+              >
+                <h2 className="text-3xl font-bold mb-8">Draft</h2>
+                
+                <div className="max-w-3xl mx-auto">
+                  <div className="space-y-4">
+                    <h3 className="text-xl font-semibold">Initial Draft</h3>
+                    <div className="aspect-video relative rounded-xl overflow-hidden shadow-lg">
+                      <video 
+                        className="w-full h-full object-cover"
+                        controls
+                        poster="/images/video-preview.jpg"
+                      >
+                        <source src="/videos/draft-1.mp4" type="video/mp4" />
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <p className="text-muted-foreground">
+                      Early draft version showcasing the initial concept and development direction of the project.
+                    </p>
+                  </div>
+                </div>
+              </motion.div>
             </div>
           </div>
         </section>
